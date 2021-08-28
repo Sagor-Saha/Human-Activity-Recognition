@@ -175,7 +175,9 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 ![image](https://drive.google.com/uc?export=view&id=1U3sMW4UuQxrT6ADKHZM9hDbwOc8yWona)
 
 #### Finally keras plus lstm implementaion as also been done.
+
 ![image](https://drive.google.com/uc?export=view&id=1s5DYaoKMFsgUMeHhniUB0OgGnlpoy6nS)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sagorsaha.tech/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagor-saha-047001111/)
